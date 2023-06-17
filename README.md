@@ -1,11 +1,11 @@
-About r-wordcloud2
-==================
+About r-wordcloud2-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-wordcloud2-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/lchiffon/wordcloud2
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-wordcloud2-feedstock/blob/main/LICENSE.txt)
 
 Summary: A fast visualization tool for creating wordcloud by using 'wordcloud2.js'. 'wordcloud2.js' is a JavaScript library to create wordle presentation on 2D canvas or HTML <https://timdream.org/wordcloud2.js/>.
 
